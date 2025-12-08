@@ -62,21 +62,20 @@
 
 ---
 
-## インフラ
+## Infrastructure
 
 <table>
   <tr>
     <td width="25%" valign="top"
         style="border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px;">
       <h4>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="26" />
-        AWS
+        <img src="https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws&logoColor=white&style=flat" width="30" />
+        Amazon Web Service
       </h4>
       <p>
         <img src="https://img.shields.io/badge/EC2-FF9900?logo=amazon-aws&logoColor=white&style=flat" />
         <img src="https://img.shields.io/badge/RDS-527FFF?logo=amazon-aws&logoColor=white&style=flat" />
         <img src="https://img.shields.io/badge/S3-F2A30F?logo=amazon-aws&logoColor=white&style=flat" />
-        <img src="https://img.shields.io/badge/Lambda-FF9900?logo=aws-lambda&logoColor=white&style=flat" />
         <img src="https://img.shields.io/badge/CloudFront-FF4F00?logo=amazon-aws&logoColor=white&style=flat" />
       </p>
     </td>
