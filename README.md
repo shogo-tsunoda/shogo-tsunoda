@@ -20,7 +20,7 @@
   <img src="https://img.shields.io/badge/Wails-00ADD8?logo=go&logoColor=white&style=flat" />
 </p>
 
-#### <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="26" height="26" /> TypeScript (Backend)
+#### <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="26" height="26" /> TypeScript
 <p>
   <img src="https://img.shields.io/badge/NestJS-E0234E?logo=nestjs&logoColor=white&style=flat" />
 </p>
@@ -29,11 +29,7 @@
 
 ### 🎨 Frontend
 
-#### <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="26" height="26" /> TypeScript (Frontend)
-<p>
-  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=flat" />
-</p>
-
+#### <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="26" height="26" /> TypeScript
 #### <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="26" height="26" /> JavaScript
 <p>
   <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=flat" />
