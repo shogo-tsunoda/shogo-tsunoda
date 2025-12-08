@@ -4,7 +4,7 @@
 - 特に **API 設計 / インフラ構築（AWS） / DB 設計 / 機械学習** が得意
 - フロントエンドはできるが、デザインができない（センスがない）
 
-## Stats
+## 📈 Stats
 ![trophy](https://github-profile-trophy.vercel.app/?username=Keichan15&theme=buefy)
 ![](https://raw.githubusercontent.com/shogo-tsunoda/shogo-tsunoda/main/profile-summary-card-output/buefy/0-profile-details.svg)
 ![](https://raw.githubusercontent.com/shogo-tsunoda/shogo-tsunoda/main/profile-summary-card-output/buefy/3-stats.svg)
@@ -12,7 +12,7 @@
 
 ---
 
-## **Tech Stack**
+## 🛠️ Tech Stack
 ### **Frontend**
 <table>
   <tr>
