@@ -1,16 +1,8 @@
 ## 👋 About Me
-- Web開発を生業としている。要件定義～設計～開発～運用・保守まで経験
+- Web開発を生業としている自称フルスタックエンジニア。デザイン以外なら全てできる
+- 要件定義～設計～開発～運用・保守まで経験
 - インフラ・バックエンドが得意
 - 特に **API 設計 / インフラ構築（AWS） / DB 設計 / 機械学習** が得意
-- フロントエンドはできるが、デザインができない（センスがない）
-
----
-
-## 📈 Stats
-![trophy](https://github-profile-trophy.vercel.app/?username=Keichan15&theme=buefy)
-![](https://raw.githubusercontent.com/shogo-tsunoda/shogo-tsunoda/main/profile-summary-card-output/buefy/0-profile-details.svg)
-![](https://raw.githubusercontent.com/shogo-tsunoda/shogo-tsunoda/main/profile-summary-card-output/buefy/3-stats.svg)
-![](https://raw.githubusercontent.com/shogo-tsunoda/shogo-tsunoda/main/profile-summary-card-output/buefy/2-most-commit-language.svg)
 
 ---
 
@@ -154,3 +146,10 @@
   </tr>
 </table>
 
+---
+
+## 📈 Stats
+![trophy](https://github-profile-trophy.vercel.app/?username=Keichan15&theme=buefy)
+![](https://raw.githubusercontent.com/shogo-tsunoda/shogo-tsunoda/main/profile-summary-card-output/buefy/0-profile-details.svg)
+![](https://raw.githubusercontent.com/shogo-tsunoda/shogo-tsunoda/main/profile-summary-card-output/buefy/3-stats.svg)
+![](https://raw.githubusercontent.com/shogo-tsunoda/shogo-tsunoda/main/profile-summary-card-output/buefy/2-most-commit-language.svg)
