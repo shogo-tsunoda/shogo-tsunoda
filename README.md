@@ -1,3 +1,7 @@
+## Stats
+![trophy](https://github-profile-trophy.vercel.app/?username=Keichan15&theme=gruvbox)
+
+
 ## **Tech Stack**
 ### **Frontend**
 <table>
