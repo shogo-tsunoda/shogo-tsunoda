@@ -2,7 +2,28 @@
 ### **Frontend**
 <table>
   <tr>
-    <td width="25%" valign="top">
+    <td width="33%" valign="top"
+        style="border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px;">
+      <h4>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="24" />
+        HTML5
+      </h4>
+      <p>
+        <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=flat" />
+      </p>
+    </td>
+    <td width="33%" valign="top"
+        style="border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px;">
+      <h4>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="24" />
+        CSS
+      </h4>
+      <p>
+        <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=flat" />
+        <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?logo=tailwindcss&logoColor=white&style=flat" />
+      </p>
+    </td>
+    <td width="30%" valign="top">
       <h4>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="24" />
         TypeScript
