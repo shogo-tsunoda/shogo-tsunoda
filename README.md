@@ -10,8 +10,7 @@
 ### **Frontend**
 <table>
   <tr>
-    <td width="33%" valign="top"
-        style="border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px;">
+    <td width="25%" valign="top">
       <h4>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="24" />
         HTML5
@@ -20,8 +19,7 @@
         <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=flat" />
       </p>
     </td>
-    <td width="33%" valign="top"
-        style="border: 1px solid #e1e4e8; border-radius: 12px; padding: 12px;">
+    <td width="25%" valign="top">
       <h4>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="24" />
         CSS
@@ -31,9 +29,9 @@
         <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?logo=tailwindcss&logoColor=white&style=flat" />
       </p>
     </td>
-    <td width="30%" valign="top">
+    <td width="25%" valign="top">
       <h4>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="24" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="30" />
         TypeScript
       </h4>
       <p>
