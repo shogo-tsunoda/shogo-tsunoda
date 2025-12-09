@@ -160,7 +160,10 @@ Webエンジニアとして `要件定義 → 設計 → 実装 → インフラ
 # ⚡ 活動
 
 ## 活動状況
-Coming Soon・・・
+![trophy](https://github-profile-trophy.vercel.app/?username=Keichan15&theme=buefy)
+![](https://raw.githubusercontent.com/shogo-tsunoda/shogo-tsunoda/main/profile-summary-card-output/buefy/0-profile-details.svg)
+![](https://raw.githubusercontent.com/shogo-tsunoda/shogo-tsunoda/main/profile-summary-card-output/buefy/3-stats.svg)
+![](https://raw.githubusercontent.com/shogo-tsunoda/shogo-tsunoda/main/profile-summary-card-output/buefy/2-most-commit-language.svg)
 
 ## 活動内容
 Coming Soon・・・
