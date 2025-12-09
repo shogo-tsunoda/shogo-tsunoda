@@ -146,7 +146,7 @@ Webエンジニアとして `要件定義 → 設計 → 実装 → インフラ
 
 ---
 
-## 📈 Stats
+## 📈 活動状況
 ![](https://raw.githubusercontent.com/shogo-tsunoda/shogo-tsunoda/main/profile-summary-card-output/buefy/0-profile-details.svg)
 ![](https://raw.githubusercontent.com/shogo-tsunoda/shogo-tsunoda/main/profile-summary-card-output/buefy/3-stats.svg)
 ![](https://raw.githubusercontent.com/shogo-tsunoda/shogo-tsunoda/main/profile-summary-card-output/buefy/2-most-commit-language.svg)
