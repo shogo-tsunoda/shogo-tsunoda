@@ -7,7 +7,7 @@ Webエンジニアとして `要件定義 → 設計 → 実装 → インフラ
 ---
 
 ## 🛠️ 技術スタック
-### **Frontend**
+### フロントエンド
 <table>
   <tr>
     <td width="25%" valign="top">
@@ -43,7 +43,7 @@ Webエンジニアとして `要件定義 → 設計 → 実装 → インフラ
 
 ---
 
-### **Backend**
+### バックエンド
 <table>
   <tr>
     <td width="25%" valign="top">
@@ -89,7 +89,7 @@ Webエンジニアとして `要件定義 → 設計 → 実装 → インフラ
 
 ---
 
-## Infrastructure
+## インフラ
 
 <table>
   <tr>
@@ -149,20 +149,15 @@ Webエンジニアとして `要件定義 → 設計 → 実装 → インフラ
 ## 🎖️ 保有資格
 
 ### 🧑‍💻 プログラミング言語
-## 🎖️ 保有資格
-
-### 🧑‍💻 プログラミング言語
 | 資格 | 取得日 |
 |------|---------|
-| ![Python 3 エンジニア認定基礎試験](https://img.shields.io/badge/Python3エンジニア認定基礎試験-3776AB?style=for-the-badge&logo=python&logoColor=white) | 2021年04月 |
-| ![PHP8 技術者認定初級試験](https://img.shields.io/badge/PHP8技術者認定初級試験-777BB4?style=for-the-badge&logo=php&logoColor=white) | 2023年09月 |
-
----
+| Python 3 エンジニア認定基礎試験 | 2021年04月 |
+| PHP8 技術者認定初級試験 | 2023年09月 |
 
 ### 🔓 セキュリティ
 | 資格 | 取得日 |
 |------|---------|
-| ![Web Security Basic](https://img.shields.io/badge/ウェブ・セキュリティ基礎試験(徳丸基礎)-1E90FF?style=for-the-badge&logo=shield&logoColor=white) |  |
+| ウェブ・セキュリティ基礎試験(徳丸基礎) |  |
 
 ---
 
