@@ -149,7 +149,6 @@
 ---
 
 ## 📈 Stats
-![trophy](https://github-profile-trophy.vercel.app/?username=Keichan15&theme=buefy)
 ![](https://raw.githubusercontent.com/shogo-tsunoda/shogo-tsunoda/main/profile-summary-card-output/buefy/0-profile-details.svg)
 ![](https://raw.githubusercontent.com/shogo-tsunoda/shogo-tsunoda/main/profile-summary-card-output/buefy/3-stats.svg)
 ![](https://raw.githubusercontent.com/shogo-tsunoda/shogo-tsunoda/main/profile-summary-card-output/buefy/2-most-commit-language.svg)
