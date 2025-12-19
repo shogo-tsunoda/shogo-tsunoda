@@ -142,16 +142,6 @@ Webエンジニアとして `要件定義 → 設計 → 実装 → インフラ
 
 ---
 
-# 🎖️ 保有資格
-
-## 🧑‍💻 プログラミング言語
-| 資格 | 取得年月 |
-|------|---------|
-| Python 3 エンジニア認定基礎試験 | 2021年04月 |
-| PHP8 技術者認定初級試験 | 2023年09月 |
-
----
-
 # ⚡ 活動
 ![](https://raw.githubusercontent.com/shogo-tsunoda/shogo-tsunoda/main/profile-summary-card-output/buefy/0-profile-details.svg)
 ![](https://raw.githubusercontent.com/shogo-tsunoda/shogo-tsunoda/main/profile-summary-card-output/buefy/3-stats.svg)
