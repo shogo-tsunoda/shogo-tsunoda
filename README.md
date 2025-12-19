@@ -159,5 +159,5 @@ Webエンジニアとして `要件定義 → 設計 → 実装 → インフラ
 ---
 
 # SNSリンク
-![X](https://x.com/tsunomaru_tech)
-![note](https://note.com/tsunomaru_tech)
+[X](https://x.com/tsunomaru_tech)  
+[note](https://note.com/tsunomaru_tech)
