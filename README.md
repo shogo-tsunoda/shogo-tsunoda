@@ -150,24 +150,14 @@ Webエンジニアとして `要件定義 → 設計 → 実装 → インフラ
 | Python 3 エンジニア認定基礎試験 | 2021年04月 |
 | PHP8 技術者認定初級試験 | 2023年09月 |
 
-## 🔓 セキュリティ
-| 資格 | 取得年月 |
-|------|---------|
-| ウェブ・セキュリティ基礎試験(徳丸基礎) |  |
-
 ---
 
 # ⚡ 活動
 ![](https://raw.githubusercontent.com/shogo-tsunoda/shogo-tsunoda/main/profile-summary-card-output/buefy/0-profile-details.svg)
 ![](https://raw.githubusercontent.com/shogo-tsunoda/shogo-tsunoda/main/profile-summary-card-output/buefy/3-stats.svg)
 ![](https://raw.githubusercontent.com/shogo-tsunoda/shogo-tsunoda/main/profile-summary-card-output/buefy/2-most-commit-language.svg)
-
----
-
-# ポートフォリオ
-Coming Soon・・・
-
 ---
 
 # SNSリンク
-Coming Soon・・・
+![X](https://x.com/tsunomaru_tech)
+![note](https://note.com/tsunomaru_tech)
