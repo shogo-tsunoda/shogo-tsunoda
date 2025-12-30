@@ -149,7 +149,7 @@ Webエンジニアとして `要件定義 → 設計 → 実装 → インフラ
 ---
 
 # SNSリンク
-[技術ブログ](https://tsunomaru-tech.jp/)
+[技術ブログ](https://tsunomaru-tech.jp/)  
 [X](https://x.com/tsunomaru_tech)  
 [note](https://note.com/tsunomaru_tech)
 
