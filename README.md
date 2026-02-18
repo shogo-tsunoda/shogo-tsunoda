@@ -39,11 +39,52 @@
         TypeScript
       </h4>
       <p>
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=flat" />
+      </p>
+    </td>
+    <td width="25%" valign="top">
+      <h4>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="24" />
+        React
+      </h4>
+      <p>
         <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=flat" />
       </p>
     </td>
   </tr>
+  <tr>
+    <td width="25%" valign="top">
+      <h4>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="24" />
+        Next.js
+      </h4>
+      <p>
+        <img src="https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white&style=flat" />
+      </p>
+    </td>
+    <td width="25%" valign="top">
+      <h4>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="24" />
+        React Native
+      </h4>
+      <p>
+        <img src="https://img.shields.io/badge/React_Native-61DAFB?logo=react&logoColor=black&style=flat" />
+      </p>
+    </td>
+    <td width="25%" valign="top">
+      <h4>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="24" />
+        Vue 3
+      </h4>
+      <p>
+        <img src="https://img.shields.io/badge/Vue.js-4FC08D?logo=vue.js&logoColor=white&style=flat" />
+      </p>
+    </td>
+    <td width="25%" valign="top"></td>
+  </tr>
 </table>
+
+
 
 ## バックエンド
 <table>
