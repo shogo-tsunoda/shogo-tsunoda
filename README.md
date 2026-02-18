@@ -80,7 +80,6 @@
         <img src="https://img.shields.io/badge/Vue.js-4FC08D?logo=vue.js&logoColor=white&style=flat" />
       </p>
     </td>
-    <td width="25%" valign="top"></td>
   </tr>
 </table>
 
@@ -128,7 +127,20 @@
       </p>
     </td>
   </tr>
+  <tr>
+    <td width="25%" valign="top">
+      <h4>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="24" />
+        C#
+      </h4>
+      <p>
+        <img src="https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=white&style=flat" />
+        <img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?logo=dotnet&logoColor=white&style=flat" />
+      </p>
+    </td>
+  </tr>
 </table>
+
 
 ## インフラ
 
