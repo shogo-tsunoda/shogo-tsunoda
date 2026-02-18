@@ -7,7 +7,6 @@
 # SNS & Links
 [![Technical Blog](https://img.shields.io/badge/Technical_Blog-333333?style=for-the-badge&logo=ghost&logoColor=white)](https://tsunomaru-tech.jp/)  
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/tsunomaru_tech)  
-[![note](https://img.shields.io/badge/note-2CB696?style=for-the-badge&logo=note&logoColor=white)](https://note.com/tsunomaru_tech)  
 
 ---
 
