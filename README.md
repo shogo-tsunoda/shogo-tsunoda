@@ -4,12 +4,6 @@
 
 ---
 
-# SNS & Links
-[![Technical Blog](https://img.shields.io/badge/Technical_Blog-333333?style=for-the-badge&logo=ghost&logoColor=white)](https://tsunomaru-tech.jp/)  
-[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/tsunomaru_tech)  
-
----
-
 # 🛠️ 技術スタック
 ## フロントエンド
 <table>
@@ -205,3 +199,6 @@
 ![](https://raw.githubusercontent.com/shogo-tsunoda/shogo-tsunoda/main/profile-summary-card-output/buefy/2-most-commit-language.svg)
 ---
 
+# SNS & Links
+[![Technical Blog](https://img.shields.io/badge/Technical_Blog-333333?style=for-the-badge&logo=ghost&logoColor=white)](https://tsunomaru-tech.jp/)  
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/tsunomaru_tech)  
