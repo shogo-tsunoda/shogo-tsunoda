@@ -24,7 +24,8 @@ iPhone / Android から Windows PC へ 同一Wi-Fiネットワーク内で安全
 - 🔒 インターネット不要（ローカル通信）
 - ⚡ シンプルなUIで即ファイル転送
 
-[🔗 Microsoft Store ](https://apps.microsoft.com/detail/9NG3R1WT3G8L)
+[🔗 Microsoft Store ](https://apps.microsoft.com/detail/9NG3R1WT3G8L)  
+[🔗 Github Release ](https://github.com/shogo-tsunoda/file-bridge/releases/tag/v1.0.0)  
 
 ---
 
