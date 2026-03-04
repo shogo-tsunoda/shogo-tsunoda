@@ -18,8 +18,7 @@
     </td>
   </tr>
 </table>
-iPhone / Android から Windows PC へ  
-**同一Wi-Fiネットワーク内で安全にファイル転送できるデスクトップアプリ**
+iPhone / Android から Windows PC へ 同一Wi-Fiネットワーク内で安全にファイル転送できるデスクトップアプリ
 
 - 📦 Microsoft Store 公開アプリ
 - 🔒 インターネット不要（ローカル通信）
