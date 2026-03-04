@@ -4,10 +4,22 @@
 変化の速い技術環境を楽しみながら、継続的に学習し続けています。<br>
   
 ---
+
 # 🔥 制作実績
-## MicroSoftStore
-[FileBridge](https://apps.microsoft.com/detail/9NG3R1WT3G8L?hl=ja-jp&gl=JP&ocid=pdpshare)  
-iPhoneやAndroidからWindowsPCへ同一Wi-Fiネットワーク内でファイルを転送できるセキュアかつシンプルなデスクトップアプリです。
+
+## 🪟 Microsoft Store 公開アプリ
+
+### FileBridge
+iPhone / Android から Windows PC へ  
+**同一Wi-Fiネットワーク内で安全にファイル転送できるデスクトップアプリ**
+
+- 📦 Microsoft Store 公開アプリ
+- 🔒 インターネット不要（ローカル通信）
+- ⚡ シンプルなUIで即ファイル転送
+
+🔗 Microsoft Store  
+https://apps.microsoft.com/detail/9NG3R1WT3G8L
+
 ---
 
 # 🛠️ 技術スタック
