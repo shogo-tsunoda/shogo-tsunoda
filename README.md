@@ -9,6 +9,8 @@
 
 ## 🪟 Microsoft Store 公開アプリ
 
+<img src="/images/filebridge-icon.png" width="80"/>
+
 ### FileBridge
 iPhone / Android から Windows PC へ  
 **同一Wi-Fiネットワーク内で安全にファイル転送できるデスクトップアプリ**
