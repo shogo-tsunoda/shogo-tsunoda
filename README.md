@@ -8,10 +8,16 @@
 # 🔥 制作実績
 
 ## 🪟 Microsoft Store 公開アプリ
-
-<img src="/images/filebridge-icon.png" width="80"/>
-
-### FileBridge
+<table>
+  <tr>
+    <td width="80">
+      <img src="/images/file-bridge-icon.png" width="64"/>
+    </td>
+    <td>
+        <strong>FileBridge</strong>
+    </td>
+  </tr>
+</table>
 iPhone / Android から Windows PC へ  
 **同一Wi-Fiネットワーク内で安全にファイル転送できるデスクトップアプリ**
 
@@ -19,8 +25,7 @@ iPhone / Android から Windows PC へ
 - 🔒 インターネット不要（ローカル通信）
 - ⚡ シンプルなUIで即ファイル転送
 
-🔗 Microsoft Store  
-https://apps.microsoft.com/detail/9NG3R1WT3G8L
+[🔗 Microsoft Store ](https://apps.microsoft.com/detail/9NG3R1WT3G8L)
 
 ---
 
