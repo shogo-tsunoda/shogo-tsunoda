@@ -25,6 +25,7 @@ iPhone / Android から Windows PC へ 同一Wi-Fiネットワーク内で安全
 - ⚡ シンプルなUIで即ファイル転送
 
 [🔗 Microsoft Store ](https://apps.microsoft.com/detail/9NG3R1WT3G8L)  
+[🔗 Vector ](https://www.vector.co.jp/soft/winnt/util/se528561.html)  
 [🔗 Github Release ](https://github.com/shogo-tsunoda/file-bridge/releases/tag/v1.0.0)  
 
 ---
