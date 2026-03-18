@@ -7,7 +7,7 @@
 
 # 🔥 制作実績
 
-## 🪟 Microsoft Store 公開アプリ
+## Windowsアプリケーション
 <table>
   <tr>
     <td width="80">
