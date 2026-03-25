@@ -1,5 +1,18 @@
 # 制作実績
 
+## IOS & Androidアプリ
+<table>
+  <tr>
+    <td width="80">
+      <img src="/images/kinen-counter-icon.png" width="64"/>
+    </td>
+    <td>
+        <strong>禁煙カウンター</strong>
+    </td>
+  </tr>
+</table>
+[🔗 禁煙カウンター ](https://apps.apple.com/jp/app/id6759286095)  
+
 ## Windowsアプリケーション
 <table>
   <tr>
