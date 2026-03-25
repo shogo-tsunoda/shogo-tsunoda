@@ -11,11 +11,7 @@
     </td>
   </tr>
 </table>
-iPhone / Android から Windows PC へ 同一Wi-Fiネットワーク内で安全にファイル転送できるデスクトップアプリ
-
-- 📦 Microsoft Store 公開アプリ
-- 🔒 インターネット不要（ローカル通信）
-- ⚡ シンプルなUIで即ファイル転送
+iPhone / Android でQRコードを読み取り Windows PC へ 同一Wi-Fiネットワーク内で安全にファイル転送できるデスクトップアプリ
 
 [🔗 Microsoft Store ](https://apps.microsoft.com/detail/9NG3R1WT3G8L)  
 [🔗 Vector ](https://www.vector.co.jp/soft/winnt/util/se528561.html)  
