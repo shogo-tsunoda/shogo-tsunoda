@@ -1,26 +1,35 @@
-# 👋 自己紹介
-要件定義から設計・実装・インフラ構築・運用改善まで一気通貫で担えるフルスタックエンジニアです。<br>
-バックエンドを軸に、Web・モバイル・クラウドまで横断的に設計し、品質とスピードを両立させる開発を行っています。<br>
-変化の速い技術環境を楽しみながら、継続的に学習し続けています。<br>
-  
----
+# 制作実績
 
-# 🔥 制作実績
+## IOS & Androidアプリ
+<table>
+  <tr>
+    <td width="80">
+      <img src="/images/kinen-counter-icon.png" width="64"/>
+    </td>
+    <td>
+        <strong>禁煙カウンター</strong>
+    </td>
+  </tr>
+</table>
 
-## 🪟 Microsoft Store 公開アプリ
+[🔗 App Store ](https://apps.apple.com/jp/app/id6759286095)  
 
-<img src="/images/filebridge-icon.png" width="80"/>
+## Windowsアプリケーション
+<table>
+  <tr>
+    <td width="80">
+      <img src="/images/file-bridge-icon.png" width="64"/>
+    </td>
+    <td>
+        <strong>FileBridge</strong>
+    </td>
+  </tr>
+</table>
+iPhone / Android でQRコードを読み取り Windows PC へ 同一Wi-Fiネットワーク内で安全にファイル転送できるデスクトップアプリ
 
-### FileBridge
-iPhone / Android から Windows PC へ  
-**同一Wi-Fiネットワーク内で安全にファイル転送できるデスクトップアプリ**
-
-- 📦 Microsoft Store 公開アプリ
-- 🔒 インターネット不要（ローカル通信）
-- ⚡ シンプルなUIで即ファイル転送
-
-🔗 Microsoft Store  
-https://apps.microsoft.com/detail/9NG3R1WT3G8L
+[🔗 Microsoft Store ](https://apps.microsoft.com/detail/9NG3R1WT3G8L)  
+[🔗 Vector ](https://www.vector.co.jp/soft/winnt/util/se528561.html)  
+[🔗 Github Release ](https://github.com/shogo-tsunoda/file-bridge/releases/tag/v1.0.0)  
 
 ---
 
@@ -217,7 +226,3 @@ https://apps.microsoft.com/detail/9NG3R1WT3G8L
 ![](https://raw.githubusercontent.com/shogo-tsunoda/shogo-tsunoda/main/profile-summary-card-output/buefy/0-profile-details.svg)
 ![](https://raw.githubusercontent.com/shogo-tsunoda/shogo-tsunoda/main/profile-summary-card-output/buefy/3-stats.svg)
 ![](https://raw.githubusercontent.com/shogo-tsunoda/shogo-tsunoda/main/profile-summary-card-output/buefy/2-most-commit-language.svg)
----
-
-# SNS & Links
-[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/tsunomaru_tech)  
