@@ -11,7 +11,8 @@
     </td>
   </tr>
 </table>
-[🔗 禁煙カウンター ](https://apps.apple.com/jp/app/id6759286095)  
+
+[🔗 App Store ](https://apps.apple.com/jp/app/id6759286095)  
 
 ## Windowsアプリケーション
 <table>
