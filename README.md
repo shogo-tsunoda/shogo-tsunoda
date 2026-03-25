@@ -9,11 +9,13 @@
     <td>
         <strong>禁煙カウンター</strong>
     </td>
-  </tr>
-</table>
+    <td>
+      
 禁煙日数、節約金額など、禁煙実績をカウントするアプリ  
-
-[🔗 App Store ](https://apps.apple.com/jp/app/id6759286095)  
+[🔗 App Store ](https://apps.apple.com/jp/app/id6759286095) 
+    </td>
+  </tr>
+</table> 
 
 ## Windowsアプリケーション
 <table>
@@ -24,13 +26,16 @@
     <td>
         <strong>FileBridge</strong>
     </td>
-  </tr>
-</table>
-iPhone / Android でQRコードを読み取り Windows PC へ 同一Wi-Fiネットワーク内で安全にファイル転送できるデスクトップアプリ
+    <td>
+        スマホでQRコードを読み取りWindowsへ同一ネットワーク内で安全にファイル転送できるデスクトップアプリ
 
 [🔗 Microsoft Store ](https://apps.microsoft.com/detail/9NG3R1WT3G8L)  
 [🔗 Vector ](https://www.vector.co.jp/soft/winnt/util/se528561.html)  
 [🔗 Github Release ](https://github.com/shogo-tsunoda/file-bridge/releases/tag/v1.0.0)  
+    </td>
+  </tr>
+</table>
+
 
 ---
 
