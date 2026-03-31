@@ -5,7 +5,7 @@
   
   <tr>
     <td width="80">
-      <img src="/images/kawareru-icon.png" width="64"/>
+      <img src="/images/tech-blog-icon.png" width="64"/>
     </td>
     <td>
       <strong>テックブログ</strong>
