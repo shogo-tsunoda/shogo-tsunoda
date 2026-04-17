@@ -43,7 +43,8 @@
     <td>
       
 禁煙日数、節約金額など、禁煙実績をカウントするアプリ  
-[ App Store ](https://apps.apple.com/jp/app/id6759286095) 
+[ App Store ](https://apps.apple.com/jp/app/id6759286095)   
+[ Google Play ](https://play.google.com/store/apps/details?id=jp.kawareru.kinensupportapp)
     </td>
   </tr>
 </table> 
