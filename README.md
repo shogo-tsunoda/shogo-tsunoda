@@ -2,20 +2,6 @@
 ## Webサイト
 
 <table>
-  
-  <tr>
-    <td width="80">
-      <img src="/images/tech-blog-icon.png" width="64"/>
-    </td>
-    <td>
-      <strong>テックブログ</strong>
-    </td>
-<td>
-技術に関する発信やガジェットの紹介などをしています。<br>
-  <a href="https://tsunomaru-tech.jp/">Website</a>
-</td>
-  </tr>
-  
   <tr>
     <td width="80">
       <img src="/images/kawareru-icon.png" width="64"/>
